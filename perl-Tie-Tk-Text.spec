@@ -62,5 +62,6 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc Changes README
+%dir %{perl_vendorlib}/Tie/Tk
 %{perl_vendorlib}/Tie/Tk/Text.pm
 %{_mandir}/man3/Tie::Tk::Text.3pm*
