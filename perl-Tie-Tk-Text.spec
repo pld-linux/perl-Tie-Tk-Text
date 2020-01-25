@@ -4,7 +4,6 @@
 
 %define		pdir	Tie
 %define		pnam	Tk-Text
-%include	/usr/lib/rpm/macros.perl
 Summary:	Tie::Tk::Text - Access Tk text widgets as arrays
 Name:		perl-Tie-Tk-Text
 Version:	0.92
